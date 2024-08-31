@@ -1,4 +1,3 @@
-# 1-Intro-to-DataTypes
-Introduction to Python Datatypes
+# Brief Overview - data manipulation
 
-#This file provides an overview to the distinct datatypes available in python.
+#Please use previously learned python commands or look up new functions on google to help you write the correct responses.
